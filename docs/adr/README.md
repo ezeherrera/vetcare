@@ -8,6 +8,7 @@ This directory contains all the architecture and technical decisions for the Vet
 | [0002](./0002-prettier-husky-eslint.md) | Use Husky, Prettier, ESLint, lint-staged | ACCEPTED | 2025-11-3 |
 | [0003](./0003-mui-design-system.md) | Adopt Material UI (MUI) as the design system | ACCEPTED | 2025-11-3 |
 | [0004](./0004-state-management-strategy.md) | State Management Strategy (Local + Remote) | ACCEPTED | 2025-11-13 |
+| [0005](./0005-eslint-rules-config.md) | ESLint Rules Configuration | ACCEPTED | 2025-11-13 |
 
 ---
 
